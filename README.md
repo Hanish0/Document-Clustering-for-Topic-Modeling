@@ -26,9 +26,10 @@ Project Structure
 
 The repository contains the following files:
 
--   `main.py`: Main script to run the entire pipeline from data loading to visualizations.
+-   `Document_Clustering.ipynb`: Main script to run the entire pipeline from data loading to visualizations.
 -   `requirements.txt`: List of Python dependencies required for the project.
 -   `README.md`: Project documentation.
+-   `twenty+newsgroups.zip`: Dataset
 
 Dependencies
 ------------
